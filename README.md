@@ -1,11 +1,12 @@
 # react-native-vertical-distribution
 
-## A simple UI component/animation for double menu distribution in react native. 
+## A simple UI component/animation for double menu distribution in react native.
 
-### It's so simple to use. You just need to pass the data (categories) for both of the columns/double menu 
-*& it will render the same animation as below* 
+### It's so simple to use. You just need to pass the data (categories) for both of the columns/double menu
 
+_& it will render the same animation as below_ :smile:
 
+![](vertical-distribution.gif)
 
 ## Usage:
 
