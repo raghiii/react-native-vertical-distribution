@@ -26,6 +26,26 @@
     "metro-react-native-babel-preset": "^0.59.0",
     "react-test-renderer": "16.13.1"
   },
+  "keywords": [
+    "react-native",
+    "vertical-distribution",
+    "double-menu",
+    "menu-distribution",
+    "social",
+    "shopping",
+    "animation",
+    "mobile",
+    "ios",
+    "android"
+  ],
+  "bugs": {
+    "url": "https://github.com/raghiii/react-native-vertical-distribution/issues"
+  },
+  "homepage": "https://github.com/raghiii/react-native-vertical-distribution",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raghiii/react-native-vertical-distribution"
+  },
   "author": "",
   "license": "ISC"
 }
