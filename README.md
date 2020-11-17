@@ -10,6 +10,10 @@ _& it will render the same animation as below_ :smile:
 
 ## Usage:
 
+```
+npm i react-native-vertical-distribution
+```
+
 Just import the **DoubleMenu** component from **'react-native-vertical-distribution'** in your file:
 
 ```
